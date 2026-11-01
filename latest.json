@@ -1,10 +1,10 @@
 {
- "v": "4.38",
- "vc": 85,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.38.apk",
- "note": "Photos des routines Souffle affichées en entier.",
- "note_en": "Breathing routine photos now shown in full.",
+ "v": "4.39",
+ "vc": 86,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.39.apk",
+ "note": "Nouveau niveau d’effort « Modéré » entre Facile et Difficile.",
+ "note_en": "New “Moderate” effort level between Easy and Hard.",
  "at": "2026-11-01",
- "size": 19892846,
- "sha256": "bbf9d92a8fa2fe2f9da1a148b2ee16c86fa1627d7fe282a223ff70158361e8d9"
+ "size": 19892989,
+ "sha256": "a845d7d98d80202f059572e83d0c9535d59acd919e43897a1a244f59f765eca0"
 }
