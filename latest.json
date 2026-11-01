@@ -1,10 +1,10 @@
 {
- "v": "4.37",
- "vc": 84,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.37.apk",
- "note": "Mise à jour dans l’appli en un geste, onglet Santé : blessures, antécédents et rééducation conseillée.",
- "note_en": "In-app update in one tap, Health tab: injuries, medical history and recommended rehab.",
+ "v": "4.38",
+ "vc": 85,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.38.apk",
+ "note": "Photos des routines Souffle affichées en entier.",
+ "note_en": "Breathing routine photos now shown in full.",
  "at": "2026-11-01",
- "size": 19889593,
- "sha256": "dba7fdbf1d695feb7deff208a9abc2404d6c43fc30db7408a7e1ccc06d09b853"
+ "size": 19892846,
+ "sha256": "bbf9d92a8fa2fe2f9da1a148b2ee16c86fa1627d7fe282a223ff70158361e8d9"
 }
