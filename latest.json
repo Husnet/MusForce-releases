@@ -1,11 +1,11 @@
 {
- "v": "5.1",
- "vc": 98,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.1.apk",
- "note": "Mode Automatique : tu peux cocher plusieurs objectifs, le programme les combine. Sur l’accueil, Automatique explique l’accompagnement, et le bouton « Choisir mon accompagnement » ouvre les questions.",
- "note_en": "Automatic mode: you can tick several goals, the plan combines them. On the home screen, Automatic explains the guided plan, and the “Choose my guided plan” button opens the questions.",
+ "v": "5.3",
+ "vc": 100,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.3.apk",
+ "note": "Touche retour : depuis n’importe quelle page tu reviens à l’accueil, et depuis l’accueil l’appli se ferme. Routines santé : un seul Démarrer, puis les exercices s’enchaînent tout seuls avec 15 s de repos. Accompagnement : écran de calcul avant le programme. Illustration du crunch vélo refaite.",
+ "note_en": "Back button: from any page you return to the home screen, and from home the app closes. Health routines: one Start, then exercises follow on by themselves with 15 s of rest. Guided plan: computing screen before the plan. Bicycle crunch illustration redone.",
  "at": "2026-11-02",
- "size": 21737260,
- "sha256": "5bf3cf9e967636c276de78f8eb048de150e0fd16be869099d232ac320077f593",
- "note_tr": "Otomatik mod: birden fazla hedef işaretleyebilirsin, program bunları birleştirir. Ana sayfada Otomatik, rehberli programı açıklar; “Rehberli programımı seç” düğmesi soruları açar."
+ "size": 21734393,
+ "sha256": "5439d15f7c7f1496aa3f7e4af99b6519ab70cd98100ecb5ed5bbfd1fe2d2a9ef",
+ "note_tr": "Geri tuşu: herhangi bir sayfadan ana sayfaya dönersin, ana sayfadan uygulama kapanır. Sağlık rutinleri: tek Başla, sonra egzersizler 15 sn dinlenmeyle kendiliğinden birbirini izler. Rehberli program: programdan önce hesaplama ekranı. Bisiklet mekik görseli yenilendi."
 }
