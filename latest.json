@@ -1,11 +1,11 @@
 {
- "v": "5.0",
- "vc": 97,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.0.apk",
- "note": "Nouveau : le mode Automatique. Tout en haut de l’accueil, choisis Manuel ou Automatique. En automatique, réponds à quelques questions (objectif, niveau, jours par semaine, durée, matériel) et l’appli construit ton programme de plusieurs semaines : séances de musculation, routines santé, cardio, marche et repos, jour après jour, avec calendrier et suivi.",
- "note_en": "New: Automatic mode. At the top of the home screen, choose Manual or Automatic. In automatic, answer a few questions (goal, level, days per week, length, equipment) and the app builds your multi-week plan: strength sessions, health routines, cardio, walking and rest, day by day, with a calendar and tracking.",
+ "v": "5.1",
+ "vc": 98,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.1.apk",
+ "note": "Mode Automatique : tu peux cocher plusieurs objectifs, le programme les combine. Sur l’accueil, Automatique explique l’accompagnement, et le bouton « Choisir mon accompagnement » ouvre les questions.",
+ "note_en": "Automatic mode: you can tick several goals, the plan combines them. On the home screen, Automatic explains the guided plan, and the “Choose my guided plan” button opens the questions.",
  "at": "2026-11-02",
- "size": 21736082,
- "sha256": "a698627cc98baf4885829b1accd4f128d174e2c3d711f594c6dd06780918ca1b",
- "note_tr": "Yeni: Otomatik mod. Ana sayfanın en üstünde Manuel ya da Otomatik’i seç. Otomatikte birkaç soruyu cevapla (hedef, seviye, haftalık gün, süre, ekipman); uygulama çok haftalık programını kurar: ağırlık antrenmanları, sağlık rutinleri, kardiyo, yürüyüş ve dinlenme, gün gün, takvim ve takiple."
+ "size": 21737260,
+ "sha256": "5bf3cf9e967636c276de78f8eb048de150e0fd16be869099d232ac320077f593",
+ "note_tr": "Otomatik mod: birden fazla hedef işaretleyebilirsin, program bunları birleştirir. Ana sayfada Otomatik, rehberli programı açıklar; “Rehberli programımı seç” düğmesi soruları açar."
 }
