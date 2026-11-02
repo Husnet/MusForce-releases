@@ -1,11 +1,11 @@
 {
- "v": "4.44",
- "vc": 91,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.44.apk",
- "note": "Cœur : pouls, stress, VFC et énergie s’affichent dès la première mesure, avec leur précision, des conseils et une fiche explicative. Mesure plus précise.",
- "note_en": "Heart: pulse, stress, HRV and energy now show right after your first measurement, with their accuracy, tips and an explanation for each. More precise measurement.",
+ "v": "4.45",
+ "vc": 92,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.45.apk",
+ "note": "Écran Santé rangé en rubriques : Santé, Étirements, Rééducation, Cardio, Souffle et Moines de Shaolin. Chaque case ouvre sa page de routines.",
+ "note_en": "Health screen organized into sections: Health, Stretches, Rehab, Cardio, Breathing and Shaolin monks. Each card opens its own page of routines.",
  "at": "2026-11-02",
- "size": 21634065,
- "sha256": "91824347e2bbfd42ef3eeebad03a1cac2ef78b931669f76a6f1d2e1f17a7f3d2",
- "note_tr": "Kalp: nabız, stres, KHD ve enerji artık ilk ölçümden itibaren doğruluk bilgisi, öneriler ve açıklamalarla görünüyor. Ölçüm daha hassas."
+ "size": 21636193,
+ "sha256": "635c22b61b60110adffb9f0432ba6d23ebf91abeb205d01f437b4f41cf2c9a7d",
+ "note_tr": "Sağlık ekranı bölümlere ayrıldı: Sağlık, Esneme, Rehabilitasyon, Kardiyo, Nefes ve Shaolin rahipleri. Her kart kendi rutin sayfasını açar."
 }
