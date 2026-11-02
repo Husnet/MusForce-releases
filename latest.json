@@ -1,11 +1,11 @@
 {
- "v": "4.43",
- "vc": 90,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.43.apk",
- "note": "Nouveau dans le Profil : podomètre (pas du jour, de la semaine et du mois) et mesure du pouls au doigt avec la caméra : stress, variabilité, énergie. L’appli existe aussi en turc.",
- "note_en": "New in Profile: step counter (daily, weekly and monthly steps) and pulse measurement with your finger on the camera: stress, variability, energy. The app is now also in Turkish.",
+ "v": "4.44",
+ "vc": 91,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.44.apk",
+ "note": "Cœur : pouls, stress, VFC et énergie s’affichent dès la première mesure, avec leur précision, des conseils et une fiche explicative. Mesure plus précise.",
+ "note_en": "Heart: pulse, stress, HRV and energy now show right after your first measurement, with their accuracy, tips and an explanation for each. More precise measurement.",
  "at": "2026-11-02",
- "size": 21623407,
- "sha256": "9355c1933249fa550350860df2b5aec96943b5dd25c77429298b14941cd61abd",
- "note_tr": "Profilde yeni: adımsayar (günlük, haftalık ve aylık adımlar) ve parmağınla kameradan nabız ölçümü: stres, değişkenlik, enerji. Uygulama artık Türkçe de kullanılabiliyor."
+ "size": 21634065,
+ "sha256": "91824347e2bbfd42ef3eeebad03a1cac2ef78b931669f76a6f1d2e1f17a7f3d2",
+ "note_tr": "Kalp: nabız, stres, KHD ve enerji artık ilk ölçümden itibaren doğruluk bilgisi, öneriler ve açıklamalarla görünüyor. Ölçüm daha hassas."
 }
