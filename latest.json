@@ -1,10 +1,11 @@
 {
- "v": "4.39",
- "vc": 86,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.39.apk",
- "note": "Nouveau niveau d’effort « Modéré » entre Facile et Difficile.",
- "note_en": "New “Moderate” effort level between Easy and Hard.",
- "at": "2026-11-01",
- "size": 19892989,
- "sha256": "a845d7d98d80202f059572e83d0c9535d59acd919e43897a1a244f59f765eca0"
+ "v": "4.43",
+ "vc": 90,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.43.apk",
+ "note": "Nouveau dans le Profil : podomètre (pas du jour, de la semaine et du mois) et mesure du pouls au doigt avec la caméra : stress, variabilité, énergie. L’appli existe aussi en turc.",
+ "note_en": "New in Profile: step counter (daily, weekly and monthly steps) and pulse measurement with your finger on the camera: stress, variability, energy. The app is now also in Turkish.",
+ "at": "2026-11-02",
+ "size": 21623407,
+ "sha256": "9355c1933249fa550350860df2b5aec96943b5dd25c77429298b14941cd61abd",
+ "note_tr": "Profilde yeni: adımsayar (günlük, haftalık ve aylık adımlar) ve parmağınla kameradan nabız ölçümü: stres, değişkenlik, enerji. Uygulama artık Türkçe de kullanılabiliyor."
 }
