@@ -1,11 +1,11 @@
 {
- "v": "5.3",
- "vc": 100,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.3.apk",
- "note": "Touche retour : depuis n’importe quelle page tu reviens à l’accueil, et depuis l’accueil l’appli se ferme. Routines santé : un seul Démarrer, puis les exercices s’enchaînent tout seuls avec 15 s de repos. Accompagnement : écran de calcul avant le programme. Illustration du crunch vélo refaite.",
- "note_en": "Back button: from any page you return to the home screen, and from home the app closes. Health routines: one Start, then exercises follow on by themselves with 15 s of rest. Guided plan: computing screen before the plan. Bicycle crunch illustration redone.",
+ "v": "5.4",
+ "vc": 101,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.4.apk",
+ "note": "Touche retour : tu reviens à la page d’avant (par exemple de l’aperçu d’une séance à ton programme) ; depuis un onglet, à l’accueil ; depuis l’accueil, l’appli se ferme. En mode automatique, l’accueil ne montre plus Mes séances ni Créer un entraînement.",
+ "note_en": "Back button: you return to the previous page (for example from a session preview to your plan); from a tab, to the home screen; from home, the app closes. In automatic mode, the home screen no longer shows My sessions or Create a workout.",
  "at": "2026-11-02",
- "size": 21734393,
- "sha256": "5439d15f7c7f1496aa3f7e4af99b6519ab70cd98100ecb5ed5bbfd1fe2d2a9ef",
- "note_tr": "Geri tuşu: herhangi bir sayfadan ana sayfaya dönersin, ana sayfadan uygulama kapanır. Sağlık rutinleri: tek Başla, sonra egzersizler 15 sn dinlenmeyle kendiliğinden birbirini izler. Rehberli program: programdan önce hesaplama ekranı. Bisiklet mekik görseli yenilendi."
+ "size": 21734435,
+ "sha256": "050355f82c9044a3927987c6e83e0bc5cec96ff8a9a8b83a8af68ba8867991c2",
+ "note_tr": "Geri tuşu: bir önceki sayfaya dönersin (örneğin antrenman önizlemesinden programına); bir sekmeden ana sayfaya; ana sayfadan uygulama kapanır. Otomatik modda ana sayfada Antrenmanlarım ve Antrenman oluştur artık görünmez."
 }
