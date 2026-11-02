@@ -1,11 +1,11 @@
 {
- "v": "4.49",
- "vc": 96,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-4.49.apk",
- "note": "Nouvelle rubrique Défis, juste sous Santé : Abdos 6-pack, Routine matinale, Torse ferme (homme) et Kegel homme avancé, des programmes de plusieurs semaines qui montent par paliers. Nouvelle routine Nerf vague dans Souffle. Images des muscles bien centrées.",
- "note_en": "New Challenges section, right under Health: Six-pack abs, Morning routine, Firm chest (men) and Advanced Kegels for men, multi-week programs that level up in stages. New Vagus nerve routine in Breathing. Muscle images now properly centered.",
+ "v": "5.0",
+ "vc": 97,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.0.apk",
+ "note": "Nouveau : le mode Automatique. Tout en haut de l’accueil, choisis Manuel ou Automatique. En automatique, réponds à quelques questions (objectif, niveau, jours par semaine, durée, matériel) et l’appli construit ton programme de plusieurs semaines : séances de musculation, routines santé, cardio, marche et repos, jour après jour, avec calendrier et suivi.",
+ "note_en": "New: Automatic mode. At the top of the home screen, choose Manual or Automatic. In automatic, answer a few questions (goal, level, days per week, length, equipment) and the app builds your multi-week plan: strength sessions, health routines, cardio, walking and rest, day by day, with a calendar and tracking.",
  "at": "2026-11-02",
- "size": 21715918,
- "sha256": "630fb3ca04c2b7ff2f6748ff8034ddb8a9875216e57f77ccd3aca778bad866fa",
- "note_tr": "Yeni Meydan okumalar bölümü, Sağlık’ın hemen altında: 6 pack karın, Sabah rutini, Sıkı göğüs (erkek) ve Erkekler için ileri Kegel; kademe kademe zorlaşan çok haftalık programlar. Nefes bölümünde yeni Vagus siniri rutini. Kas görselleri artık tam ortada."
+ "size": 21736082,
+ "sha256": "a698627cc98baf4885829b1accd4f128d174e2c3d711f594c6dd06780918ca1b",
+ "note_tr": "Yeni: Otomatik mod. Ana sayfanın en üstünde Manuel ya da Otomatik’i seç. Otomatikte birkaç soruyu cevapla (hedef, seviye, haftalık gün, süre, ekipman); uygulama çok haftalık programını kurar: ağırlık antrenmanları, sağlık rutinleri, kardiyo, yürüyüş ve dinlenme, gün gün, takvim ve takiple."
 }
