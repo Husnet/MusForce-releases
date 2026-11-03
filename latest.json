@@ -1,11 +1,11 @@
 {
- "v": "5.6",
- "vc": 103,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.6.apk",
- "note": "Mise à jour automatique : la prochaine version se téléchargera toute seule, il ne restera qu’à confirmer l’installation. Santé : nouvelle routine Tendons solides (genoux, tendon d’Achille, coudes, épaules).",
- "note_en": "Automatic updates: the next version will download by itself, you will only have to confirm the installation. Health: new Strong tendons routine (knees, Achilles tendon, elbows, shoulders).",
+ "v": "5.7",
+ "vc": 104,
+ "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.7.apk",
+ "note": "Illustrations plus claires : les mouvements complexes (arraché, épaulé, muscle-up, burpee, Turkish get-up…) s'affichent en 3 ou 4 images, et les étirements dont les deux images se ressemblaient ont été refaits.",
+ "note_en": "Clearer illustrations: complex lifts (snatch, clean, muscle-up, burpee, Turkish get-up…) now show 3 or 4 frames, and stretches whose two images looked alike were redrawn.",
+ "note_tr": "Daha net çizimler: karmaşık hareketler (koparma, silkme, muscle-up, burpee, Turkish get-up…) artık 3 veya 4 karede gösteriliyor; iki resmi birbirine benzeyen esnemeler yeniden çizildi.",
  "at": "2026-11-03",
- "size": 21739176,
- "sha256": "e4250055b774d62f045ec4ecc533686a00650746a3615a09f49ee09984a7f5a4",
- "note_tr": "Otomatik güncelleme: bir sonraki sürüm kendiliğinden inecek, sadece kurulumu onaylaman kalacak. Sağlık: yeni Sağlam tendonlar rutini (dizler, Aşil tendonu, dirsekler, omuzlar)."
+ "size": 21902635,
+ "sha256": "1bdc80cc114cfc9a3415c8ea6f8af8f9c9b1edfe3295a15899bb20cf60cbfb47"
 }

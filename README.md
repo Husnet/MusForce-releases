@@ -1,7 +1,3 @@
-# MusForce : versions de l'application Android
+# MusForce
 
-Ce dépôt sert uniquement à distribuer l'application MusForce (fichiers APK signés). Il ne contient aucun code source.
-
-- `latest.json` : numéro de la dernière version, lien de téléchargement et nouveautés. L'application le lit au démarrage
-  et propose la mise à jour (bandeau « Nouvelle version disponible »), puis la télécharge et ouvre l'écran d'installation d'Android.
-- `MusForce-x.y.apk` : l'application. Elle ne fonctionne qu'avec un compte créé par l'administrateur.
+Ce dépôt ne sert plus qu'à rediriger les anciennes versions de l'application vers le nouveau serveur de mises à jour.
