@@ -1,11 +1,11 @@
 {
- "v": "5.7",
- "vc": 104,
- "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.7.apk",
- "note": "Illustrations plus claires : les mouvements complexes (arraché, épaulé, muscle-up, burpee, Turkish get-up…) s'affichent en 3 ou 4 images, et les étirements dont les deux images se ressemblaient ont été refaits.",
- "note_en": "Clearer illustrations: complex lifts (snatch, clean, muscle-up, burpee, Turkish get-up…) now show 3 or 4 frames, and stretches whose two images looked alike were redrawn.",
- "note_tr": "Daha net çizimler: karmaşık hareketler (koparma, silkme, muscle-up, burpee, Turkish get-up…) artık 3 veya 4 karede gösteriliyor; iki resmi birbirine benzeyen esnemeler yeniden çizildi.",
+ "v": "5.8",
+ "vc": 105,
+ "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.8.apk",
+ "note": "IMC : nouvelle échelle de couleurs adaptée à ton âge (ajoute ton âge dans Mesures). Profil : pas et cœur au-dessus du calendrier. Réglages : envoie tes idées et remarques à l’équipe depuis « Ton avis ».",
+ "note_en": "BMI: new colour scale adapted to your age (add your age in Measurements). Profile: steps and heart above the calendar. Settings: send your ideas and comments to the team from “Your feedback”.",
  "at": "2026-11-03",
- "size": 21902635,
- "sha256": "1bdc80cc114cfc9a3415c8ea6f8af8f9c9b1edfe3295a15899bb20cf60cbfb47"
+ "size": 21912468,
+ "sha256": "07b026e5cf280efe9b161f6281af138564fdd2059224c1a594100329bc79828d",
+ "note_tr": "VKİ: yaşına göre uyarlanmış yeni renk skalası (Ölçüler'de yaşını ekle). Profil: adımlar ve kalp takvimin üstünde. Ayarlar: fikirlerini ve yorumlarını «Görüşün» bölümünden ekibe gönder."
 }
