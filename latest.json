@@ -1,11 +1,11 @@
 {
- "v": "5.5",
- "vc": 102,
- "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.5.apk",
- "note": "Routines santé : les voix ne se chevauchent plus entre deux exercices. Cyphose : l’étirement des pectoraux à la porte est illustré d’un seul côté, comme il se fait.",
- "note_en": "Health routines: voices no longer overlap between two exercises. Kyphosis: the doorway chest stretch is illustrated on one side, as it is done.",
- "at": "2026-11-02",
- "size": 21734458,
- "sha256": "afce2376f1e21516217f2cc3bb649742267a8a864442b05321f1ae2f97155960",
- "note_tr": "Sağlık rutinleri: iki egzersiz arasında sesler artık üst üste binmiyor. Kifoz: kapıda göğüs esnetme tek taraflı gösteriliyor, yapıldığı gibi."
+ "v": "5.6",
+ "vc": 103,
+ "url": "https://raw.githubusercontent.com/Husnet/MusForce-releases/main/MusForce-5.6.apk",
+ "note": "Mise à jour automatique : la prochaine version se téléchargera toute seule, il ne restera qu’à confirmer l’installation. Santé : nouvelle routine Tendons solides (genoux, tendon d’Achille, coudes, épaules).",
+ "note_en": "Automatic updates: the next version will download by itself, you will only have to confirm the installation. Health: new Strong tendons routine (knees, Achilles tendon, elbows, shoulders).",
+ "at": "2026-11-03",
+ "size": 21739176,
+ "sha256": "e4250055b774d62f045ec4ecc533686a00650746a3615a09f49ee09984a7f5a4",
+ "note_tr": "Otomatik güncelleme: bir sonraki sürüm kendiliğinden inecek, sadece kurulumu onaylaman kalacak. Sağlık: yeni Sağlam tendonlar rutini (dizler, Aşil tendonu, dirsekler, omuzlar)."
 }
