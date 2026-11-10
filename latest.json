@@ -1,11 +1,11 @@
 {
- "v": "5.30",
- "vc": 127,
- "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.30.apk",
- "note": "En mode femme, la voix du coach est désormais une femme, en français, en anglais et en turc. Nouveaux exercices : éveil de la Kundalini dans Souffle, et une routine Varices et jambes lourdes dans Santé.",
- "note_en": "In female mode the coach now has a woman's voice, in French, English and Turkish. New exercises: Kundalini awakening in Breath, and a Varicose veins and heavy legs routine in Health.",
- "at": "2026-11-09",
- "size": 45793001,
- "sha256": "edf083c2646a9a218ef836d582c23ac6f7e69406064a74d8cd1c32b56d53e001",
- "note_tr": "Kadın modunda antrenör sesi artık bir kadın sesi: Fransızca, İngilizce ve Türkçe. Yeni egzersizler: Nefes bölümünde Kundalini uyanışı ve Sağlık bölümünde Varis ve ağır bacaklar rutini."
+ "v": "5.31",
+ "vc": 128,
+ "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.31.apk",
+ "note": "Le coach IA au choix entre Claude et Gemini, chacun avec sa clé. Gemini a une offre gratuite, et si le crédit ou le quota de l'un est épuisé, la question part automatiquement vers l'autre.",
+ "note_en": "Choose your AI coach between Claude and Gemini, each with its own key. Gemini has a free tier, and if one runs out of credit or quota the question automatically goes to the other.",
+ "at": "2026-11-10",
+ "size": 45794553,
+ "sha256": "81ae9586dfde3aeacf5985bc4a326079d8e1ec04071b89f33859404504a81479",
+ "note_tr": "Yapay zeka antrenörü artık Claude veya Gemini: her birinin kendi anahtarı var. Gemini'nin ücretsiz kotası var; birinin kredisi veya kotası biterse soru otomatik olarak diğerine gider."
 }
