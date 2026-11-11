@@ -1,11 +1,11 @@
 {
- "v": "5.31",
- "vc": 128,
- "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.31.apk",
- "note": "Le coach IA au choix entre Claude et Gemini, chacun avec sa clé. Gemini a une offre gratuite, et si le crédit ou le quota de l'un est épuisé, la question part automatiquement vers l'autre.",
- "note_en": "Choose your AI coach between Claude and Gemini, each with its own key. Gemini has a free tier, and if one runs out of credit or quota the question automatically goes to the other.",
- "at": "2026-11-10",
- "size": 45794553,
- "sha256": "81ae9586dfde3aeacf5985bc4a326079d8e1ec04071b89f33859404504a81479",
- "note_tr": "Yapay zeka antrenörü artık Claude veya Gemini: her birinin kendi anahtarı var. Gemini'nin ücretsiz kotası var; birinin kredisi veya kotası biterse soru otomatik olarak diğerine gider."
+ "v": "5.35",
+ "vc": 132,
+ "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.35.apk",
+ "note": "30 échauffements et des étirements choisis selon les muscles de la séance, renouvelés chaque jour, avec favoris. Illustrations revues en mode homme et femme. Anglais et turc complétés. Repos après l’échauffement sur l’exercice : 1 min 30 en classique, 3 min en méthode Force.",
+ "note_en": "30 warm-ups and stretches picked for the muscles of your workout, refreshed every day, with favorites. Illustrations reviewed in male and female modes. English and Turkish completed. Rest after the warm-up set: 1 min 30 in classic, 3 min in the Force method.",
+ "at": "2026-11-11",
+ "size": 46385527,
+ "sha256": "a8d1f7408da8f272751eea50aab8aa91f8cb3b030f97a25bfacd7df7d27a0c65",
+ "note_tr": "Antrenmanın kaslarına göre seçilen, her gün yenilenen 30 ısınma hareketi ve esnemeler, favorilerle birlikte. Erkek ve kadın modunda görseller gözden geçirildi. İngilizce ve Türkçe çeviriler tamamlandı. Isınma setinden sonra dinlenme: klasik yöntemde 1 dk 30 sn, Force yönteminde 3 dk."
 }
