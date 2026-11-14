@@ -1,11 +1,11 @@
 {
- "v": "5.38",
- "vc": 135,
- "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.38.apk",
- "note": "Méthode Force : 3 min de repos par défaut (réglable) et une seule série d’échauffement à 50 %. Étirements dynamiques adaptés à la durée de la séance (3 à 6 min). Coach IA : fini les réponses coupées ou vides. Souffle : nouvelles routines « Éveil de la Kundalini » et « Système parasympathique ». Vignette du cou redessinée.",
- "note_en": "Force method: 3 min rest by default (adjustable) and a single warm-up set at 50%. Dynamic stretches now match the workout length (3 to 6 min). AI coach: no more cut-off or empty answers. Breathing: new “Kundalini awakening” and “Parasympathetic system” routines. Redrawn neck tile.",
+ "v": "5.39",
+ "vc": 136,
+ "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.39.apk",
+ "note": "Mode automatique : le questionnaire te demande maintenant ta méthode, musculation classique ou méthode Force, avec ses détails. Et toutes les nouveautés de la 5.38 : 3 min de repos en Force, étirements dynamiques adaptés à la durée, coach IA corrigé, deux nouvelles routines de Souffle.",
+ "note_en": "Guided plan: the questionnaire now asks for your method, classic strength training or the Force method, with its details. Plus everything new in 5.38: 3 min rest in Force, dynamic stretches matched to workout length, fixed AI coach, two new Breathing routines.",
  "at": "2026-11-14",
- "size": 47296665,
- "sha256": "c06c74a8b45803bbd0e6ee9f318ec6770b8aa3a9c3619f1323c16fbd7d10f3cc",
- "note_tr": "Force yöntemi: varsayılan dinlenme 3 dk (ayarlanabilir) ve %50 ile tek ısınma seti. Dinamik esnemeler antrenman süresine göre ayarlanır (3-6 dk). Yapay zekâ koçu: yarıda kesilen ya da boş yanıtlar artık yok. Nefes: yeni “Kundalini uyanışı” ve “Parasempatik sistem” rutinleri. Boyun görseli yeniden çizildi."
+ "size": 47298587,
+ "sha256": "35ea909f45b1bac1d20d971290089494d9d0386868632634079c7b07ab986f01",
+ "note_tr": "Otomatik mod: anket artık yöntemini soruyor, klasik kuvvet antrenmanı ya da Force yöntemi, ayrıntılarıyla. Ayrıca 5.38’in tüm yenilikleri: Force’ta 3 dk dinlenme, süreye göre dinamik esnemeler, düzeltilmiş yapay zekâ koçu, iki yeni Nefes rutini."
 }
