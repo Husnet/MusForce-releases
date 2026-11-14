@@ -1,11 +1,11 @@
 {
- "v": "5.40",
- "vc": 137,
- "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.40.apk",
- "note": "Nouveau design : thème blanc entièrement clair, contrastes renforcés et boutons plus grands. En séance, la série à valider est en bas de l’écran, sous le pouce, et le repos passe en ambre les 5 dernières secondes. Santé : chaque rubrique garde sa couleur.",
- "note_en": "New design: fully light white theme, stronger contrast and bigger buttons. During a workout, the set to log sits at the bottom of the screen, right under your thumb, and the rest timer turns amber for the last 5 seconds. Health: each section keeps its color.",
+ "v": "5.41",
+ "vc": 138,
+ "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.41.apk",
+ "note": "Séance plus fiable : le repos reprend où il en était après avoir quitté l’appli, et une série validée par erreur s’annule. Chaque charge proposée est expliquée, la séance du jour s’adapte (30 min, matériel indisponible, séance légère) et changer d’exercice propose des équivalents selon la raison. Aussi : sauvegarde et restauration de tes données, propositions de séance du coach IA vérifiées par l’appli, et textes de la rubrique Souffle revus.",
+ "note_en": "More reliable workouts: the rest timer picks up where it was after you leave the app, and a set logged by mistake can be undone. Every suggested weight is explained, today’s workout adapts (30 min, equipment unavailable, light workout) and changing an exercise suggests equivalents based on the reason. Also: backup and restore of your data, AI coach workout suggestions checked by the app, and revised texts in the Breathing section.",
  "at": "2026-11-14",
- "size": 47307510,
- "sha256": "7555846652270ce724511e3efa25fc2935701f63fbd6070fec0ea21209f8d8a7",
- "note_tr": "Yeni tasarım: tamamen açık beyaz tema, daha güçlü kontrast ve daha büyük düğmeler. Antrenmanda kaydedilecek set ekranın altında, başparmağının hemen altında; dinlenme sayacı son 5 saniyede kehribar rengine dönüyor. Sağlık: her bölüm kendi rengini koruyor."
+ "size": 47377266,
+ "sha256": "ec49e1c665df6275454776b0ae05d350299d02b7c88fe32f9f51bc49df33e2a7",
+ "note_tr": "Daha güvenilir antrenman: uygulamadan çıksan bile dinlenme kaldığı yerden devam eder, yanlışlıkla kaydedilen bir set geri alınabilir. Önerilen her ağırlık açıklanır, günün antrenmanı uyarlanır (30 dk, eksik ekipman, hafif antrenman) ve egzersiz değiştirirken sebebe göre eşdeğerler önerilir. Ayrıca: verilerinin yedeklenmesi ve geri yüklenmesi, uygulamanın kontrol ettiği yapay zekâ koçu antrenman önerileri ve Nefes bölümünde gözden geçirilmiş metinler."
 }
