@@ -1,11 +1,11 @@
 {
- "v": "5.39",
- "vc": 136,
- "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.39.apk",
- "note": "Mode automatique : le questionnaire te demande maintenant ta méthode, musculation classique ou méthode Force, avec ses détails. Et toutes les nouveautés de la 5.38 : 3 min de repos en Force, étirements dynamiques adaptés à la durée, coach IA corrigé, deux nouvelles routines de Souffle.",
- "note_en": "Guided plan: the questionnaire now asks for your method, classic strength training or the Force method, with its details. Plus everything new in 5.38: 3 min rest in Force, dynamic stretches matched to workout length, fixed AI coach, two new Breathing routines.",
+ "v": "5.40",
+ "vc": 137,
+ "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.40.apk",
+ "note": "Nouveau design : thème blanc entièrement clair, contrastes renforcés et boutons plus grands. En séance, la série à valider est en bas de l’écran, sous le pouce, et le repos passe en ambre les 5 dernières secondes. Santé : chaque rubrique garde sa couleur.",
+ "note_en": "New design: fully light white theme, stronger contrast and bigger buttons. During a workout, the set to log sits at the bottom of the screen, right under your thumb, and the rest timer turns amber for the last 5 seconds. Health: each section keeps its color.",
  "at": "2026-11-14",
- "size": 47298587,
- "sha256": "35ea909f45b1bac1d20d971290089494d9d0386868632634079c7b07ab986f01",
- "note_tr": "Otomatik mod: anket artık yöntemini soruyor, klasik kuvvet antrenmanı ya da Force yöntemi, ayrıntılarıyla. Ayrıca 5.38’in tüm yenilikleri: Force’ta 3 dk dinlenme, süreye göre dinamik esnemeler, düzeltilmiş yapay zekâ koçu, iki yeni Nefes rutini."
+ "size": 47307510,
+ "sha256": "7555846652270ce724511e3efa25fc2935701f63fbd6070fec0ea21209f8d8a7",
+ "note_tr": "Yeni tasarım: tamamen açık beyaz tema, daha güçlü kontrast ve daha büyük düğmeler. Antrenmanda kaydedilecek set ekranın altında, başparmağının hemen altında; dinlenme sayacı son 5 saniyede kehribar rengine dönüyor. Sağlık: her bölüm kendi rengini koruyor."
 }
