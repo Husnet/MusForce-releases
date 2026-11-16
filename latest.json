@@ -1,11 +1,11 @@
 {
- "v": "5.41",
- "vc": 138,
- "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.41.apk",
- "note": "Séance plus fiable : le repos reprend où il en était après avoir quitté l’appli, et une série validée par erreur s’annule. Chaque charge proposée est expliquée, la séance du jour s’adapte (30 min, matériel indisponible, séance légère) et changer d’exercice propose des équivalents selon la raison. Aussi : sauvegarde et restauration de tes données, propositions de séance du coach IA vérifiées par l’appli, et textes de la rubrique Souffle revus.",
- "note_en": "More reliable workouts: the rest timer picks up where it was after you leave the app, and a set logged by mistake can be undone. Every suggested weight is explained, today’s workout adapts (30 min, equipment unavailable, light workout) and changing an exercise suggests equivalents based on the reason. Also: backup and restore of your data, AI coach workout suggestions checked by the app, and revised texts in the Breathing section.",
- "at": "2026-11-14",
- "size": 47377266,
- "sha256": "ec49e1c665df6275454776b0ae05d350299d02b7c88fe32f9f51bc49df33e2a7",
- "note_tr": "Daha güvenilir antrenman: uygulamadan çıksan bile dinlenme kaldığı yerden devam eder, yanlışlıkla kaydedilen bir set geri alınabilir. Önerilen her ağırlık açıklanır, günün antrenmanı uyarlanır (30 dk, eksik ekipman, hafif antrenman) ve egzersiz değiştirirken sebebe göre eşdeğerler önerilir. Ayrıca: verilerinin yedeklenmesi ve geri yüklenmesi, uygulamanın kontrol ettiği yapay zekâ koçu antrenman önerileri ve Nefes bölümünde gözden geçirilmiş metinler."
+ "v": "5.42",
+ "vc": 139,
+ "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.42.apk",
+ "note": "Deux nouveaux défis dans Santé → Défis : « Tendons d’acier » (squat espagnol, planche de Copenhague, pompe tenue en bas, curl tenu à 90°, suspension à la barre, descente lente du talon ; 24 séances) et « Force isométrique » (6 positions tenues, sans aucun poids, avec un test au premier et au dernier jour ; 28 séances). Nouvelles illustrations et quelques traductions corrigées.",
+ "note_en": "Two new challenges in Health → Challenges: “Tendons of steel” (Spanish squat, Copenhagen plank, bottom push-up hold, 90-degree curl hold, dead hang, slow single-leg heel drop; 24 sessions) and “Isometric strength” (6 held positions, no weights at all, with a test on the first and last day; 28 sessions). New illustrations and a few translation fixes.",
+ "at": "2026-11-16",
+ "size": 47622561,
+ "sha256": "154049dbf76833dfca710c7d17af952aa27cd09702f244b129d10f4de610a656",
+ "note_tr": "Sağlık → Meydan okumalar bölümünde iki yeni meydan okuma: “Çelik tendonlar” (İspanyol squat, Kopenhag plank, şınavın altında bekleme, 90 derecede curl tutma, barda asılı kalma, tek bacak yavaş topuk indirme; 24 seans) ve “İzometrik güç” (hiç ağırlık olmadan 6 sabit pozisyon, ilk ve son gün bir test ile; 28 seans). Yeni çizimler ve birkaç çeviri düzeltmesi."
 }
