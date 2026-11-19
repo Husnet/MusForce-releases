@@ -1,11 +1,11 @@
 {
- "v": "5.42",
- "vc": 139,
- "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.42.apk",
- "note": "Deux nouveaux défis dans Santé → Défis : « Tendons d’acier » (squat espagnol, planche de Copenhague, pompe tenue en bas, curl tenu à 90°, suspension à la barre, descente lente du talon ; 24 séances) et « Force isométrique » (6 positions tenues, sans aucun poids, avec un test au premier et au dernier jour ; 28 séances). Nouvelles illustrations et quelques traductions corrigées.",
- "note_en": "Two new challenges in Health → Challenges: “Tendons of steel” (Spanish squat, Copenhagen plank, bottom push-up hold, 90-degree curl hold, dead hang, slow single-leg heel drop; 24 sessions) and “Isometric strength” (6 held positions, no weights at all, with a test on the first and last day; 28 sessions). New illustrations and a few translation fixes.",
- "at": "2026-11-16",
- "size": 47622561,
- "sha256": "154049dbf76833dfca710c7d17af952aa27cd09702f244b129d10f4de610a656",
- "note_tr": "Sağlık → Meydan okumalar bölümünde iki yeni meydan okuma: “Çelik tendonlar” (İspanyol squat, Kopenhag plank, şınavın altında bekleme, 90 derecede curl tutma, barda asılı kalma, tek bacak yavaş topuk indirme; 24 seans) ve “İzometrik güç” (hiç ağırlık olmadan 6 sabit pozisyon, ilk ve son gün bir test ile; 28 seans). Yeni çizimler ve birkaç çeviri düzeltmesi."
+ "v": "5.43",
+ "vc": 140,
+ "url": "https://mf-de19d1.web.app/k4cclytj7ipxps9gnjq2/MusForce-5.43.apk",
+ "note": "Mode paysage : l’illustration occupe toute la hauteur de l’écran, avec le compteur à côté des boutons (échauffement, étirements, repos, lecteur Santé) ; image de l’exercice agrandie en séance sur tablette. Liste des exercices rangeable par nom ou par difficulté croissante ou décroissante. Onglet Coach : le texte des conseils ne passe plus sous les icônes.",
+ "note_en": "Landscape mode: the illustration fills the screen height, with the timer next to the buttons (warm-up, stretching, rest, Health player); larger exercise image during workouts on tablets. Exercise list can be sorted by name or by increasing or decreasing difficulty. Coach tab: tip text no longer overlaps the icons.",
+ "at": "2026-11-19",
+ "size": 47624593,
+ "sha256": "989a157f9882dae05f66b2542f641c9aec16c85a8d49895a5bdf136eb9e4e541",
+ "note_tr": "Yatay mod: çizim ekranın tüm yüksekliğini kaplıyor, sayaç düğmelerin yanında (ısınma, esneme, dinlenme, Sağlık oynatıcısı); tablette antrenman sırasında egzersiz görseli daha büyük. Egzersiz listesi ada göre ya da artan veya azalan zorluğa göre sıralanabiliyor. Koç sekmesi: ipuçlarının metni artık simgelerin altına kaymıyor."
 }
